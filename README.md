@@ -1,4 +1,4 @@
-# Project Title
+# Propeller Aero Rinex
 This code extracts the rinex files for a given period and base from the FTP server at  ftp://www.ngs.noaa.gov/cors/rinex and merges into a single .obs file. 
 This should be able to dowload files for any base between any period. 
 
