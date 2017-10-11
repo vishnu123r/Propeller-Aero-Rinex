@@ -1,0 +1,10 @@
+example.obs
+obs_reader.py
+/__pycache__
+/2017-280
+/2017-279
+/.spyproject
+/zip_downloads
+mergeRinexd.py
+nypb.obs
+test.py
